@@ -77,7 +77,7 @@ global.packname = '🌙 Lord вσт\nwa.me/6287708773367\n\n\n𝙱𝚢 Kurumi �
 global.author = '۰ ⸼'
 
 // silakan di ganti klo mau
-global.botwm = 'whatsapp bot' /UBAH JADI NAMAMU
+global.botwm = 'whatsapp bot'//UBAH JADI NAMAMU
 global.wm = '@frmndaa'
 global.botdate = `❏ ${wktu}\n❏ ${week} ${date}`
 global.imagebot = `https://telegra.ph/file/793b6accf3758f092742a.jpg`

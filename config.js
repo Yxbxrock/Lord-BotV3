@@ -73,8 +73,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '🌙 Lord вσт\nwa.me/6287708773367\n\n\n𝙱𝚢 Kurumi あ\n\n\nFollow IG: @lord_ammar_quoteser_\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.'
-global.author = '۰ ⸼'
+global.packname = 'created by'
+global.author = '@frmndaa'
 
 // silakan di ganti klo mau
 global.botwm = 'whatsapp bot'//UBAH JADI NAMAMU
